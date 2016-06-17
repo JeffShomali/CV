@@ -52,7 +52,7 @@ could break something?
 ------------------------------------------------------------------------------------------------------------
 8) How is the staging area different from the working directory and the repository? What value do you think it offers?
      A staging area is a place in the .git repository that is tracking changed files before committed.
-     
+
 ------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------
@@ -98,3 +98,9 @@ Automatic merging can save the user a lot of time!  Particularly when
 many developers are working remotely, merging everything manually could be very unpleasant. It's critical to regularly
 double review that the code still works after a merge.
 ------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------
+14) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+The Github repository might have an incomplete commit that might now work completely on its own.
+And if your local repository keeps changing automatically, that might cause you some trouble when you are working on your own local changes.

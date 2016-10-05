@@ -12,12 +12,12 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://jeffshomali.github.io/
-baseurl: /cv/
+baseurl: /CV/
 title: Jeff Bagheri Personal
 author: Jeff Bagheri
 description: Personal blog and resume
 avatar: profile.png
-email: bagheri.jeff@email.com
+email: bagheri.jeff@gmail.com
 github: JeffShomali # username
 twitter: jeffshomali
 linkedin: jeff-bagheri

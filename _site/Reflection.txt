@@ -1,0 +1,117 @@
+------------------------------------------------------------------------------------------------------------
+1) How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+     diff -u command shows which line deleted or modified perfectly.
+------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------
+2) How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Having the history of change for  a ling time help to debug much easier than before.
+------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------
+3) What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google docs do?
+
+     Having manually save for binary files makes me know what changed I did exactly and understand more about my changes and logics that I changed.
+------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------
+4) Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+      Git is more programming oriented, where several files tend to consist one logical group.
+      On the other hand, Google Docs is primarily more targeted for documents created for human readings,
+      in which case each single file consists a meaningful piece.
+------------------------------------------------------------------------------------------------------------
+5) How can you use the commands git log and git diff to view the history of files?
+
+    1) cd ~/repository/path
+    2) git log --stat      ;get commit ID and copy in buffer
+    3) git diff commitID   ;Show differences
+------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------
+6) How might using version control make you more confident to make changes that
+could break something?
+
+     I can revert my changes to previous version by running one command. This feature helps developer a lot of time-saving
+     for debugging.
+------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------
+ 7) Now that you have your workspace set up, what do you want to try using Git for?
+
+     I will use git for all my feature project for more customizing and less stress of coding.
+------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------
+8) How is the staging area different from the working directory and the repository? What value do you think it offers?
+     A staging area is a place in the .git repository that is tracking changed files before committed.
+
+------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------
+9) How can you use the staging area to make sure you have one commit per logical change?
+
+     First, add files that are linked to the primary logical change you want to commit,
+     and next making it sure you have staged all the data, make a commit. Then you stage
+     other files that are related to the second logical change you want to commit, and so on.
+------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------
+10) What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+     Since explained in the tutoring, branches are useful for when you have performance
+     code and want to try a shift in functionality without breaking what you
+     currently have. By branching, you create a copy of the master and then "branch off" at that point. The main branch stays
+     intact and unchanged, but you are free to make any changes to the new
+     branch.
+------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------
+11) How do the diagrams help you visualize the branch structure?
+
+    It provides a road map of the main master branch and the commit id that you may have branched off
+    from.
+------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------
+12) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+     Master branch is the main branch where all the commits from the child branch are combined.
+     They will be shown in historical order. We draw it in the diagram the way that we do as we are showing what
+     commits can and cannot be accessed by the merged branch and also to visualize the concept.
+------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------
+13) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging can save the user a lot of time!  Particularly when
+many developers are working remotely, merging everything manually could be very unpleasant. It's critical to regularly
+double review that the code still works after a merge.
+------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------
+14) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+The Github repository might have an incomplete commit that might now work completely on its own.
+And if your local repository keeps changing automatically, that might cause you some trouble when you are working on your own local changes.
+------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------
+
+15) What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+     I am able to code and update my local repository without Internet access for a while, and  I can update my local copy before I leave.  I can do this even
+     if I'm not able to merge those changes into my own branches yet.  Then if I
+     want, I can perform the merge while offline, or I need to know what the
+     remote version is at some point, I have an easy way to access it.

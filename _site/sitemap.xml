@@ -2,10 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://jeffshomali.github.io//</loc>
-    <lastmod>2016-11-18T17:14:24-08:00</lastmod>
+    <lastmod>2017-08-16T12:31:16-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
+  
+    <url>
+      <loc>http://jeffshomali.github.io//My-VsCode-Plugin-Collection.html</loc>
+      
+        <lastmod>2017-02-03T00:00:00-08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+  
+    <url>
+      <loc>http://jeffshomali.github.io//Setup-a-Mac-Dev-From-Scratch.html</loc>
+      
+        <lastmod>2017-01-22T00:00:00-08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+  
+    <url>
+      <loc>http://jeffshomali.github.io//Godaddy-and-Github-pages.html</loc>
+      
+        <lastmod>2016-04-05T00:00:00-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
   
     <url>
       <loc>http://jeffshomali.github.io//post1.html</loc>
@@ -20,89 +59,11 @@
       
     </url>
   
-    <url>
-      <loc>http://jeffshomali.github.io//post2.html</loc>
-      
-        <lastmod>2013-05-27T00:00:00-07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-  
-    <url>
-      <loc>http://jeffshomali.github.io//post3.html</loc>
-      
-        <lastmod>2013-04-02T00:00:00-07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-  
-    <url>
-      <loc>http://jeffshomali.github.io//post4.html</loc>
-      
-        <lastmod>2013-03-15T00:00:00-07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-  
-    <url>
-      <loc>http://jeffshomali.github.io//post5.html</loc>
-      
-        <lastmod>2013-02-10T00:00:00-08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-  
-    <url>
-      <loc>http://jeffshomali.github.io//post6.html</loc>
-      
-        <lastmod>2013-01-24T00:00:00-08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-  
-    <url>
-      <loc>http://jeffshomali.github.io//post7.html</loc>
-      
-        <lastmod>2012-11-04T00:00:00-07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-  
   
   <url>
     <loc>http://jeffshomali.github.io//404</loc>
     
-      <lastmod>2016-11-18T17:14:24-08:00</lastmod>
+      <lastmod>2017-08-16T12:31:16-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -115,7 +76,7 @@
   <url>
     <loc>http://jeffshomali.github.io//atom.xml</loc>
     
-      <lastmod>2016-11-18T17:14:24-08:00</lastmod>
+      <lastmod>2017-08-16T12:31:16-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -128,7 +89,7 @@
   <url>
     <loc>http://jeffshomali.github.io//blog</loc>
     
-      <lastmod>2016-11-18T17:14:24-08:00</lastmod>
+      <lastmod>2017-08-16T12:31:16-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -141,7 +102,7 @@
   <url>
     <loc>http://jeffshomali.github.io//</loc>
     
-      <lastmod>2016-11-18T17:14:24-08:00</lastmod>
+      <lastmod>2017-08-16T12:31:16-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -154,7 +115,7 @@
   <url>
     <loc>http://jeffshomali.github.io//projects</loc>
     
-      <lastmod>2016-11-18T17:14:24-08:00</lastmod>
+      <lastmod>2017-08-16T12:31:16-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -167,7 +128,7 @@
   <url>
     <loc>http://jeffshomali.github.io//sitemap.xml</loc>
     
-      <lastmod>2016-11-18T17:14:24-08:00</lastmod>
+      <lastmod>2017-08-16T12:31:16-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>

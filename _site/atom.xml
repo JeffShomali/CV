@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   
-    <title type="text" xml:lang="en">Jeff Bagheri Personal</title>
+    <title type="text" xml:lang="en">Jeff Bagheri Personal Blog</title>
     <link type="application/atom+xml" rel="self" href="http://jeffshomali.github.io//atom.xml"/>
   
   <link href="http://jeffshomali.github.io//"/>
   <id>http://jeffshomali.github.io//</id>
-  <updated>2017-08-16T12:31:16Z</updated>
+  <updated>2017-08-16T19:46:30Z</updated>
   <author>
     <name>Jeff Bagheri</name>
     <email>bagheri.jeff@gmail.com</email>

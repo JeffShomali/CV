@@ -12,8 +12,8 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://jeffshomali.github.io/
-baseurl: 
-title: Jeff Bagheri Personal
+baseurl: /
+title: Jeff Bagheri Personal Blog
 author: Jeff Bagheri
 description: Personal blog and resume
 avatar: profile.png

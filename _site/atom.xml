@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   
     <title type="text" xml:lang="en">Jeff Bagheri Personal Blog</title>
-    <link type="application/atom+xml" rel="self" href="http://jeffshomali.github.io//atom.xml"/>
+    <link type="application/atom+xml" rel="self" href="http://localhost:3000/atom.xml"/>
   
-  <link href="http://jeffshomali.github.io//"/>
-  <id>http://jeffshomali.github.io//</id>
-  <updated>2017-10-30T11:13:09Z</updated>
+  <link href="http://localhost:3000/"/>
+  <id>http://localhost:3000/</id>
+  <updated>2017-11-13T14:40:52Z</updated>
   <author>
     <name>Jeff Bagheri</name>
     <email>info@jeffshomali.com</email>
@@ -15,8 +15,8 @@
   
   <entry>
   <title type="text">Essential VsCode Plugins for Web Development</title>
-  <link rel="alternate" type="text/html" href="http://jeffshomali.github.io//My-VsCode-Plugin-Collection.html" />
-  <id>http://jeffshomali.github.io//My-VsCode-Plugin-Collection</id>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/My-VsCode-Plugin-Collection.html" />
+  <id>http://localhost:3000/My-VsCode-Plugin-Collection</id>
   <published>2017-02-03T00:00:00Z</published>
   <updated>2017-02-03T00:00:00Z</updated>
   <content type="html"><![CDATA[ <h2 id="essential-plugin">Essential Plugin</h2>
@@ -26,8 +26,8 @@
 
   <entry>
   <title type="text">Setup a Mac Development From Scratch</title>
-  <link rel="alternate" type="text/html" href="http://jeffshomali.github.io//Setup-a-Mac-Dev-From-Scratch.html" />
-  <id>http://jeffshomali.github.io//Setup-a-Mac-Dev-From-Scratch</id>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/Setup-a-Mac-Dev-From-Scratch.html" />
+  <id>http://localhost:3000/Setup-a-Mac-Dev-From-Scratch</id>
   <published>2017-01-22T00:00:00Z</published>
   <updated>2017-01-22T00:00:00Z</updated>
   <content type="html"><![CDATA[ <h2 id="front-end-development">Front End Development</h2>
@@ -40,8 +40,8 @@
 
   <entry>
   <title type="text">Setup Godaddy DNS for Github Pages</title>
-  <link rel="alternate" type="text/html" href="http://jeffshomali.github.io//Godaddy-and-Github-pages.html" />
-  <id>http://jeffshomali.github.io//Godaddy-and-Github-pages</id>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/Godaddy-and-Github-pages.html" />
+  <id>http://localhost:3000/Godaddy-and-Github-pages</id>
   <published>2016-04-05T00:00:00Z</published>
   <updated>2016-04-05T00:00:00Z</updated>
   <content type="html"><![CDATA[ 
@@ -51,8 +51,8 @@
 
   <entry>
   <title type="text">A Full and Comprehensive Style Test (HTML)</title>
-  <link rel="alternate" type="text/html" href="http://jeffshomali.github.io//post1.html" />
-  <id>http://jeffshomali.github.io//post1</id>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/post1.html" />
+  <id>http://localhost:3000/post1</id>
   <published>2013-06-05T00:00:00Z</published>
   <updated>2013-06-05T00:00:00Z</updated>
   <content type="html"><![CDATA[ <blockquote>
